@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppIdatFirebaseAutentication</string>
+    <string name="valetemail">Ingrese su email</string>
+    <string name="valetpassword">Ingrese su password</string>
+    <string name="valbtnloginfirebase">INGRESAR</string>
+    <string name="valbtnlogingoogle">INGRESAR CON GMAIL</string>
+    <string name="valbtnregfirebase">REGISTRAR USUARIO</string>
+    <string name="valtvregistrarusuario">Si no tienes cuenta, dar clic aqui.</string>
+    <string name="valbtnlogoutfirebase">LOGOUT FIREBASE</string>
+</resources>

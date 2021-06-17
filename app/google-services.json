@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "94171109862",
+    "project_id": "appidatfirebaseauth",
+    "storage_bucket": "appidatfirebaseauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94171109862:android:5b803f13854b01ee261e27",
+        "android_client_info": {
+          "package_name": "edu.pe.idat.appidatfirebaseautentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94171109862-55vtnrhrkac1kkmrjlh69up4307ephht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.pe.idat.appidatfirebaseautentication",
+            "certificate_hash": "05d59dce9b5e0da5a1b636398caec6e7e607019f"
+          }
+        },
+        {
+          "client_id": "94171109862-00ocfedmq2ohg8j38rp277nvlocplctq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBajWuQyCuC8FnFDjPSTspj0ike2DapE0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94171109862-00ocfedmq2ohg8j38rp277nvlocplctq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
